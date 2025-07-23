@@ -1,14 +1,5 @@
 from config import ruta_products_registrados, ruta_ventas
 from .productos import acceder_a_datos_json
-"""generar_reporte_productos(**kwargs)
-
-Qué hace: Muestra un listado de productos con opciones de formato.
-
-Parámetros con **kwargs:
-
-formato: Puede ser "basico" (solo nombres) o "detallado" (nombre, precio, stock).
-
-filtro: Un diccionario para filtrar (ej: {"precio_max": 100})."""
 
 
 # Funcion que genera reporte de los productos, espera variable detalle(sencillo ó detallado) precio_max para filtrar hasta el precio maximo que se indique
