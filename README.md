@@ -15,3 +15,7 @@ Proyecto que gestiona productos y ventas usando:
 
 2. Ejecuta el archivo main.py
 
+3. Menú del programa:
+
+![alt text](imgs/image.png)
+
