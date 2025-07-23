@@ -1,0 +1,67 @@
+{
+    "1": {
+        "Producto": "Leche",
+        "Cantidad": 7,
+        "Total": 16800.0,
+        "Cliente": "Reinel Hernandez",
+        "Fecha": "2025-07-17",
+        "Hora": "22:58:44"
+    },
+    "2": {
+        "Producto": "Leche",
+        "Cantidad": 7,
+        "Total": "16800.0 Con descuento",
+        "Cliente": "Anthony Cianci",
+        "Fecha": "2025-07-17",
+        "Hora": "23:00:37"
+    },
+    "3": {
+        "Producto": "Leche",
+        "Cantidad": 7,
+        "Total": [
+            16800.0,
+            " Con descuento"
+        ],
+        "Cliente": "Daniela Carolina",
+        "Fecha": "2025-07-17",
+        "Hora": "23:08:07"
+    },
+    "4": {
+        "Producto": "Leche",
+        "Cantidad": 7,
+        "Total": [
+            16800.0,
+            " Con descuento"
+        ],
+        "Cliente": "Daniela Carolina",
+        "Fecha": "2025-07-17",
+        "Hora": "23:11:19"
+    },
+    "5": {
+        "Producto": "Leche",
+        "Cantidad": 7,
+        "Total": [
+            16800.0,
+            " Con descuento"
+        ],
+        "Cliente": "Daniela Carolina",
+        "Fecha": "2025-07-18",
+        "Hora": "13:48:52"
+    },
+    "6": {
+        "Producto": "Yuca",
+        "Cantidad": 3,
+        "Total": 2400,
+        "Cliente": "Anthony Cianci",
+        "Fecha": "2025-07-18",
+        "Hora": "15:28:11"
+    },
+    "7": {
+        "Producto": "Lim\u00f3n",
+        "Cantidad": 4,
+        "Total": 800,
+        "Cliente": "Reinel Hernandez",
+        "Fecha": "2025-07-18",
+        "Hora": "16:44:33"
+    }
+}

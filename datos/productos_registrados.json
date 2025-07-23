@@ -1,0 +1,22 @@
+{
+    "Aj\u00ed": {
+        "Precio": 200,
+        "Stock": 20
+    },
+    "Yuca": {
+        "Precio": 800,
+        "Stock": 25
+    },
+    "Color": {
+        "Precio": 100,
+        "Stock": 17
+    },
+    "Lim\u00f3n": {
+        "Precio": 200,
+        "Stock": 96
+    },
+    "Tomate": {
+        "Precio": 500,
+        "Stock": 20
+    }
+}
